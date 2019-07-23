@@ -1,0 +1,114 @@
+  <!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <link rel="stylesheet" href="color.css">
+
+  <body>
+
+    <h1>All About Oreo</h1>
+
+    <div>
+      Name: Oreo
+    </div>
+    <div>
+    Age: Currently 2
+    </div>
+    <div>
+    Breed: Poodle/?
+    </div>
+    <div>
+    Gender: Female
+    </div>
+    <div>
+    Love/Hate Realationship: Owner <3
+    </div>
+    <div>
+    Fun Fact: My owner and I share the same birthday :)
+    </div>
+    <p>
+    Bio:
+      My name is oreo, I am 2 years old. I love going to the park, swimming in the lake and playing with my sister even though shes a lazy bum.
+      Oh yeah I was born on November 6. I also love sleeping, I sleep everyday, getting belly rubs and my owner says that I'm the lazy bum -_- I have a lot of toys but sometimes I only play with a few of them. My cousin Sasha loves destorying and playing with MY toys, pretty annoying. I guess I'm photogenic I don't really know, my owner loves taking pictures of me. Anyways hoped you enjoyed reading my bio.
+    </p>
+
+      <div>
+        <h3>Just some pics of me :D<h3>
+      </div>
+
+      <style>
+      div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
+      }
+
+      div.gallery:hover {
+        border: 1px solid #777;
+      }
+
+      div.gallery img {
+        width: 100%;
+        height: auto;
+      }
+
+      div.desc {
+        padding: 15px;
+        text-align: center;
+      }
+      </style>
+      </head>
+      <body>
+
+      <div class="gallery">
+        <a target="_blank" href="oreo.jpg">
+          <img src="oreo.jpg" width="600" height="400">
+        </a>
+        <div class="desc">:)</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="oreo0.jpg">
+          <img src="oreo0.jpg" width="600" height="400">
+        </a>
+        <div class="desc">:D</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="oreo1.jpg">
+          <img src="oreo1.jpg" width="600" height="400">
+        </a>
+        <div class="desc">happydayss</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="oreo7.jpg">
+          <img src="oreo7.jpg" width="600" height="400">
+        </a>
+        <div class="desc">:P</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="oreo8.jpg">
+          <img src="oreo8.jpg" width="600" height="400">
+        </a>
+        <div class="desc">rawr</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="oreo3.jpg">
+          <img src="oreo3.jpg" width="600" height="400">
+        </a>
+        <div class="desc">hi</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="oreo2.jpg">
+          <img src="oreo2.jpg" width="600" height="400">
+        </a>
+        <div class="desc">smiles</div>
+      </div>
+
+    </body>
+</html>
